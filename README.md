@@ -1,2 +1,2 @@
-# openshift
-openshift uploaded sources
+# repository 'temp'
+saved files for self-styding purpose.
