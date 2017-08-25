@@ -11,13 +11,13 @@
 <html>
 <head>
   <meta charset="utf-8">
-<!-- bootstrap css style-sheet link   --------------------------------------------------------------->   
+<!-- bootstrap css link   -->   
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
-<!-- animate css style-sheet link --------------------------------------------------------------->    
+<!-- animate css link -->    
     <link rel="stylesheet" type="text/css" media="all" href="./css/animate.css">
     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script> 
-<!-- google font css style-sheet link --------------------------------------------------------------->     
+<!-- google font css link -->     
     <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaijaan" rel="stylesheet">      
     
 
